@@ -40,3 +40,4 @@ export PS1="\[\e[35m\]\u\[\e[m\]\[\e[35m\]@\[\e[m\]\[\e[35m\]\h\[\e[m\] \[\$(git
 alias tmux="tmux -2"
 alias ls='CLICOLOR_FORCE=1 ls -GAFoh'
 alias less='less -R'
+alias node='nodejs'

@@ -74,7 +74,6 @@ Plugin 'tpope/vim-commentary'
 Plugin 'shumphrey/fugitive-gitlab.vim'
 Plugin 'rking/ag.vim'
 Plugin 'vim-scripts/nginx.vim'
-Plugin 'docker/docker', {'rtp': '/contrib/syntax/vim/'}
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'jelera/vim-javascript-syntax'
 Plugin 'vim-scripts/HTML-AutoCloseTag'
