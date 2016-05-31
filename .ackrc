@@ -1,0 +1,6 @@
+--ignore-dir=.idea/
+--ignore-dir=node_modules/
+--ignore-dir=.meteor/
+--ignore-dir=typings/
+
+--type-add=javascript=.ts
